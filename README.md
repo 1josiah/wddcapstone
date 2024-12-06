@@ -1,1 +1,2 @@
 # wddcapstone
+This is my Capstone Project for my Web Database Development class. It features an employee database that you can log into and modify its records. It includes sanitized input/output, hashed and salted login information, and session-only webpages. This is my first effort in creating a web database. If you would like to see me expand on this project, I have uploaded a seperate repository where I plan to add many more features and better design: https://github.com/1josiah/employeedatabase
